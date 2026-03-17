@@ -31,14 +31,14 @@
 "1thespace.wav",
 "2thespace.wav"
   ],
-  
+
   "cinematic": [
 "deepforest.wav",
 "shigeosekito.wav",
 "waystar.wav",
 "forestdwelling.wav"
   ],
-  
+
   "melo_1": [
 "melo_1.wav",
 "melo_2.wav",
@@ -59,7 +59,7 @@
 "chaotic_synth_7.wav",
 "chaotic_synth_8.wav"
   ],
-  
+
   "chaosinstr_1": [
 "chaotic_bass_1.wav",
 "chaotic_piano_1.wav",
@@ -69,7 +69,7 @@
 "chaotic_vox_1.wav",
 "chaotic_vox_2.wav"
   ],
-  
+
 "fx_1": [
 "fx_1.wav",
 "fx_2.wav",
@@ -77,11 +77,11 @@
 ],
 
 "perc_1": [
-  "perc_1.wav",
-  "perc_2.wav"
+"perc_1.wav",
+"perc_2.wav"
 ],
-  
-  "htechno_1": [   
+
+  "htechno_1": [
 "htechno1_150_B.wav",
 "htechno2_150_B.wav",
 "htechno3_150_B.wav",
@@ -89,7 +89,7 @@
 "htechno6_150_B.wav",
 "htechno7_150_B.wav"
   ],
-  
+
   "htechno_2": [
 "htechno_76_F_1.wav",
 "htechno_76_F_2.wav",
@@ -110,7 +110,7 @@
 "rave1_90_B_3.wav",
 "rave1_90_B_4.wav",
 "rave1_90_B_5.wav",
-"rave1_90_B_6.wav",
+"rave1_90_B_6.wav"
 ],
 
 "schranz_1": [
@@ -125,8 +125,8 @@
 "schranz_80_F_4.wav",
 "schranz_80_F_5.wav"
 ],
-  
-  "lofi_1": [   
+
+  "lofi_1": [
 "lofi1_102-Am.wav",
 "lofifi2-102-Am.wav",
 "lofi_124_Am.wav",
@@ -136,14 +136,14 @@
 "lofi_93-C.wav",
 "lofi_94_Am.wav"
   ],
- 
-  "dnb_1": [   
+
+  "dnb_1": [
 "dnb_87_bbm.wav",
 "dnb_87_Ff.wav",
 "dnb_87_Fm.wav"
   ],
-  
-    "break": [
+
+  "break": [
 "1_break.wav",
 "2_break.wav",
 "3_break.wav",
@@ -151,7 +151,7 @@
 "5_break.wav",
 "6_break.wav"
   ],
-  
+
   "break_1": [
 "break_80_F_1.wav",
 "break_80_F_2.wav",
@@ -159,7 +159,7 @@
 "break_80_F_4.wav",
 "break_80_F_5.wav"
 ],
-  
+
   "breakcore_1": [
 "breakbeat_71_Fm.wav",
 "breakcore2_84_B.wav",
@@ -187,7 +187,7 @@
 "breakcore4_96_Ffm.wav",
 "breakcore5_96_Ffm.wav",
 "breakcore6_96_Ffm.wav",
-"breakcore7_96_Ffm.wav",
+"breakcore7_96_Ffm.wav"
   ],
 
   "darkcore_1": [
@@ -212,8 +212,8 @@
 "halftime10_87_Cf.wav",
 "halftime11_87_Cf.wav"
   ],
-  
-    "technoid_1": [
+
+  "technoid_1": [
 "technoid1_132_Am.wav",
 "technoid2_132_Am.wav",
 "technoid3_132_Am.wav",
@@ -225,7 +225,7 @@
 "technoid9_132_Am.wav",
 "technoid10_132_Am.wav"
   ],
-  
+
   "drillnbass_1": [
 "drillnbass_71_Cm_1.wav",
 "drillnbass_71_Cm_2.wav",
@@ -250,7 +250,7 @@
 "htbrazil4_135_Bbm.wav",
 "htbrazil5_135_Bbm.wav"
   ],
-  
+
   "carioca_1": [
 "carioca_130_Em_1.wav",
 "carioca_130_Em_2.wav",
@@ -261,12 +261,13 @@
 ],
 
 "phonk_1": [
-    "phonk_130_Ebm_1.wav",
-    "phonk_130_Ebm_2.wav",
-    "phonk_130_Ebm_3.wav",
-    "phonk_130_Ebm_4.wav",
-    "phonk_130_Ebm_5.wav"
-  ],
+"phonk_130_Ebm_1.wav",
+"phonk_130_Ebm_2.wav",
+"phonk_130_Ebm_3.wav",
+"phonk_130_Ebm_4.wav",
+"phonk_130_Ebm_5.wav"
+],
 
   "Serenissima_drums": ["Serenissima_drums.wav"]
+
 }
